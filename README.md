@@ -1,11 +1,11 @@
 # Early  Wildfire Detection and Segmentation Using Xception Lite and U-Net
 
-## Title
-FLAME (Fire Luminosity Airborne-based Machine Learning Evaluation) Dataset<br/>
+
+
 
 
 ### Dataset
-* The dataset is uploaded on Google Drive You can find the dataset [here] (https://drive.google.com/drive/folders/1es3KGvb8fAa5P2GJ-zyt-BDJ2RkuehvM?usp=drive_link) 
+* The FLAME dataset is uploaded on Google Drive You can find the dataset [here] (https://drive.google.com/drive/folders/1es3KGvb8fAa5P2GJ-zyt-BDJ2RkuehvM?usp=drive_link) 
 
 * This table below shows all available data for the dataset.
 * This project uses items 7, 8, 9, and 10 from the dataset. Items 7 and 8 are being used for the "Fire_vs_NoFire" image classification. Items 9 and 10 are for the fire segmentation. 
