@@ -96,11 +96,11 @@ python main.py
 
 ## Results
 
-![Alt text](wildfire-detection-segmentation/frames/segmentation`_results.png)
+![Alt text](EarlyWildfire-Detection-and-Segmentation-Using-Xception-Lite-U-Net/frames/segmentation`_results.png)
 
 * Comparison between generated masks and grount truth mask:
 
-![Alt text](wildfire-detection-segmentation/frames/segmentation_img.png)
+![Alt text](EarlyWildfire-Detection-and-Segmentation-Using-Xception-Lite-U-Net/frames/segmentation_img.png)
 
 
 ## License
