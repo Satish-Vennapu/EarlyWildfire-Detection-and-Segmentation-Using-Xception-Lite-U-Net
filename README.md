@@ -1,6 +1,7 @@
 # Early  Wildfire Detection and Segmentation Using Xception Lite and U-Net
 
-
+### Demo
+<img align="bottom" src="assets/wildfire.gif"/>
 
 
 
